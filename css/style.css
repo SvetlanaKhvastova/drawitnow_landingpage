@@ -217,7 +217,7 @@ h1 {
   fill: #9db0d1;
 }
 .box_cloud_bg {
-  background: url(/img/bg_cloud.png) top left / auto 200px repeat-x, linear-gradient(180deg, rgba(135, 198, 235, 0) 8.33%, #87c6eb 93.06%);
+  background: url(../img/bg_cloud.png) top left / auto 200px repeat-x, linear-gradient(180deg, rgba(135, 198, 235, 0) 8.33%, #87c6eb 93.06%);
 }
 .caption {
   padding: 252px 0 50px;
@@ -278,7 +278,7 @@ h1 {
   max-width: 1200px;
   padding: 40px 0 50px;
   margin: 0 auto;
-  background: url(/img/bg_hill.png) bottom right / auto 475px no-repeat;
+  background: url(../img/bg_hill.png) bottom right / auto 475px no-repeat;
   min-height: 475px;
 }
 .heaging {
