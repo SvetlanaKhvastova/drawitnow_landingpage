@@ -257,14 +257,14 @@ h1 {
   background: rgba(235, 172, 135, 0.6);
 }
 .img_wrap {
-  width: 310px;
-  height: 310px;
+  width: 100%;
   margin: 10px 0 20px;
   background: #ebac87;
 }
 .img_wrap img {
   width: 100%;
-  height: 100%;
+  height: auto;
+  display: block;
 }
 .box_text {
   line-height: 24px;
